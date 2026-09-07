@@ -1,7 +1,7 @@
 # amacorp-enterprise
 Welcome to AMACorporations! A fictional enterprise environment simulating real-world IT infrastructure, cybersecurity operations, offensive security, and incident response.
 
-Overview
+**Overview**
 
 AMACorporations is a simulated enterprise environment designed to provide hands-on experience with the technologies, workflows, and security challenges found in a real organization.
 
@@ -9,7 +9,7 @@ The environment includes Windows and Linux systems, enterprise networking, centr
 
 Rather than building isolated cybersecurity projects, this lab connects them together to simulate how security teams operate within an enterprise.
 
-🛡️ Security Operations
+**Security Operations**
 
 The environment is used to practice:
 
