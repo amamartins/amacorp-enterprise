@@ -22,7 +22,7 @@ Incident response
 Endpoint security
 Security hardening
 
-⚔️ Attack & Defense
+**Attack & Defense**
 
 Controlled attack scenarios are performed against intentionally vulnerable systems within the lab.
 
@@ -38,7 +38,7 @@ Suspicious authentication activity
 Malicious PowerShell activity
 Credential attacks
 
-🚨 Incident Response
+**Incident Response**
 
 Security incidents are documented using structured incident reports containing:
 
@@ -52,7 +52,7 @@ Containment
 Remediation
 Lessons learned
 
-📂 Repository Structure
+**Repository Structure**
 
 01-company/               Company & organizational documentation
 
@@ -72,10 +72,10 @@ Lessons learned
 
 09-documentation/         Diagrams, screenshots & notes
 
-🎯 Goals
+**Goals**
 
 The long-term goal of AMACorporations is to build a realistic, evolving enterprise environment where offensive and defensive security concepts can be practiced together.
 
 The environment will continue to evolve as new technologies, attack scenarios, and defensive capabilities are introduced.
 
-Status: 🟢 Active Development
+**Status:** 🟢 Active Development
